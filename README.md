@@ -22,5 +22,18 @@
 
 ## 效果
 
+- 1000个岩石模型
+
+![效果1](https://github.com/SweeneyChoi/An-asteroid-field/blob/master/image/Instancing.png)
+
+- 100000个岩石模型
+
+![效果2](https://github.com/SweeneyChoi/An-asteroid-field/blob/master/image/100000.png)
+
+可以看到，在合适的环境下，实例化渲染能够大大增加显卡的渲染能力。正是出于这个原因，实例化渲染通常会用于渲染草、植被、粒子，以及上面这样的场景，基本上只要场景中有很多重复的形状，都能够使用实例化渲染来提高性能。
+
+
+
+
 
 
